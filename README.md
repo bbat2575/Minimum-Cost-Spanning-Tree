@@ -13,12 +13,13 @@ A .in file contains graph information in the following order:
 
 ## Example
 
+<img align="right" src="https://github.com/bbat2575/Minimum-Cost-Spanning-Tree/blob/main/graphs/graph8.png" style="width: 40%;">
+
 For *graph8.in*:
 
 8 &emsp;&emsp;&emsp;&emsp;&emsp; <- Number of vertices  
 15 &emsp;&emsp;&emsp;&emsp;&emsp; <- Number of edges  
 0 1 0.732 &emsp;&ensp; <- Egdes  
-<img align="right" src="https://github.com/bbat2575/Minimum-Cost-Spanning-Tree/blob/main/graphs/graph8.png" style="width: 60%;">
 0 3 0.134 &emsp;&ensp; ...  
 0 4 0.112 &emsp;&ensp; ...  
 1 4 0.770 &emsp;&ensp; ...  
