@@ -1,6 +1,6 @@
 #!/bin/bash
 
-program="python3 mst.py"
+program="python3 mcst.py"
 
 # Find all files ending with ".in"
 test_files=$(find . -type f -name "*.in")
