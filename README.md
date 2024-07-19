@@ -13,7 +13,7 @@ A .in file contains graph information in the following order:
 
 ## Example
 
-<img align="right" src="https://github.com/bbat2575/Minimum-Cost-Spanning-Tree/blob/main/graphs/graph8-2.png" style="width: 40%;">
+<img align="right" src="https://github.com/bbat2575/Minimum-Cost-Spanning-Tree/blob/main/graphs/graph8-3.png" style="width: 40%;">
 
 For *graph8.in*:
 
