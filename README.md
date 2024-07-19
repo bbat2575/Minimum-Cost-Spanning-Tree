@@ -13,7 +13,7 @@ A .in file contains graph information in the following order:
 
 ## Example
 
-<img align="right" src="https://github.com/bbat2575/Minimum-Cost-Spanning-Tree/blob/main/graphs/graph8.png" style="width: 40%;">
+<img align="right" src="https://github.com/bbat2575/Minimum-Cost-Spanning-Tree/blob/main/graphs/graph8-2.png" style="width: 40%;">
 
 For *graph8.in*:
 
@@ -34,7 +34,7 @@ For *graph8.in*:
 5 6 0.748 &emsp;&ensp; ...  
 5 7 0.544 &emsp;&ensp; ...  
 6 7 0.474 &emsp;&ensp; ...  
-4 &emsp;&emsp;&emsp;&emsp;&emsp; <- Number of specified edges  
+4 &emsp;&emsp;&emsp;&emsp;&emsp; <- Number of specified edges for MST  
 0 1 &emsp;&emsp;&emsp;&emsp;&nbsp; <- Specified edges  
 3 6 &emsp;&emsp;&emsp;&emsp;&nbsp; ...  
 2 6 &emsp;&emsp;&emsp;&emsp;&nbsp; ...  
