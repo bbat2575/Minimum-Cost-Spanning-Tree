@@ -1,12 +1,13 @@
 #! /usr/bin/env bash
 
-echo graph8
-python3 mst.py < graphs/graph8.in
-echo
+program="python3 mst.py"
 
-echo graph250
-python3 mst.py < graphs/graph250.in
-echo
+# Find all files ending with ".in"
+test_files=$(find . -type f -name "*.in")
 
-echo graph1000
-python3 mst.py < graphs/graph1000.in
+# Iterate over each test file
+for input_file in $test_files; do
+    echo $input_file
+    $program < $input_file
+    echo
+done
