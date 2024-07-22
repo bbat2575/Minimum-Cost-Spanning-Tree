@@ -18,7 +18,7 @@ A .in file contains graph information in the following order:
 For *graph8.in*:
 
 8 &emsp;&emsp;&emsp;&emsp;&emsp; <- Number of vertices  
-15 &emsp;&emsp;&emsp;&emsp;&emsp; <- Number of edges  
+15 &emsp;&emsp;&emsp;&emsp;&ensp; <- Number of edges  
 0 1 0.732 &emsp;&ensp; <- Egde  
 0 3 0.134 &emsp;&ensp; ...  
 0 4 0.112 &emsp;&ensp; ...  
